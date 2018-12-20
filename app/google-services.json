@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "358029111266",
+    "firebase_url": "https://davidcrisabellab8.firebaseio.com",
+    "project_id": "davidcrisabellab8",
+    "storage_bucket": "davidcrisabellab8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358029111266:android:08b532760b237392",
+        "android_client_info": {
+          "package_name": "com.example.user_pc.davidcrisabellab8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358029111266-rnst5hf0l6ngq52gl20rpq4ohlp0k0ha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user_pc.davidcrisabellab8",
+            "certificate_hash": "e0365f2a93caeb3b9be076e2b5cb55654383b6f3"
+          }
+        },
+        {
+          "client_id": "358029111266-nqpr6mc6d7g50k7mn26oga6nsljib9f8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-NpFWD-u9YTarOO6hnII121aD5kYeyQI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358029111266-nqpr6mc6d7g50k7mn26oga6nsljib9f8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
